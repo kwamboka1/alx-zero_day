@@ -1,4 +1,4 @@
-# 0 day 
+#Day 1
 As a Software Engineer.
 
 
